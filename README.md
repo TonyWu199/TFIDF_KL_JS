@@ -1,0 +1,3 @@
+# TFIDF_KL_JS
+一些关于TFIDF，KL，JS的相似度算法
+四个包某些具有相互依赖关系。其中fenci和EXcelHandler都是为后两个算法提供便利的自定义库。
